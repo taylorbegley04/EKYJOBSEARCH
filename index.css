@@ -1,1 +1,21 @@
+p{
+  font-family: 'Karma', serif;
+}
+h1{
+  font-family: 'PT Serif Caption', serif;
+}
+body{
+  background-color: #D8D8D8;
+ 
+}
+input{
+  position: relative;
+  top: -47px;
+  left:500px;
+ }
+button{
+  position: relative;
+  top: -47px;
+  left: 505px;
+}
 
