@@ -18,4 +18,53 @@ button{
   top: -47px;
   left: 505px;
 }
+body{ 
+   background-color: #D8D8D8; 
+} 
+ #Search{ 
+   position:relative; 
+  top:-47px; 
+   left:500px; 
+ } 
+ #go{ 
+   position:relative; 
+   top:-47px; 
+   left:505px; 
+ } 
+ #keyword{  
+     position: relative; 
+    top:50px;  
+    left:450px;
+    }
+    #location{    
+        position: relative;   
+        top:50px; 
+        left:455px; 
+ } 
+ #searchjobs{ 
+   position:relative; 
+   top:50px; 
+   left:460px; 
+ } 
+ #eky{ 
+   text-align:center; 
+ } 
+ #div{ 
+   text-align:center; 
+   position:relative; 
+   top:100px; 
+   border: 2px solid black;
+   width: 650px;
+   margin: 0 auto;
+ } 
+ .listtwo{ 
+   display:block; 
+ list-style-type: circle; 
+ } 
+
+#browse{
+ position:relative;
+ top:90px;
+ left:100px;
+}
 
